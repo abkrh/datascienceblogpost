@@ -1,12 +1,12 @@
-# Introduction #
+# Gaining Data Insights #
 
-This is blog as part of my in Udacity DataScience nanao degree. This blogpost documents the process and outcome of applying the CRISP-DM 
-process to answer bsuiness questions. 
+This is blog as part of my in Udacity DataScience nanao degree. Data Science is fun and enpowering, this posts shares my project on gaining insights from raw data.. 
 
-The data set used is the **Stack Overflow Data - 2017 Survey** that was provided with the course material. I came up with four business 
-question I wanted to answer from the dataset. These questions are:
+The data set used is the **Stack Overflow Data - 2017 Survey** that was provided with the course material. Here we start withthe insights we would like to gain, and then let the data guide us.
 
-### Questions of Interest ###
+# Insight in Knowledge #
+
+The question of interest to me are:
 
 - Q1. What are the most popular languages by country
 - Q2. Is there a correlation between most popular languages choice and job satisfaction
@@ -38,13 +38,25 @@ Below is a description of the data:
 
 The data package also includes a schema that provides the survey questions. See a snapshot below.
 
+
 ![The Data Schema](Schema1.JPG)
 
 
-#Question 1 - What are the most popular languages by country
+
+## Question 1 - What are the most popular languages by country
 To answer the first question I used the **Country** and **HaveWorkedLanguage** columns. The **Country** column was straing forward and provided a single entry - the country of the respondent - but **HaveWorkedLanguage** column needed additional processing. Each entry was 
-a concatenated string of all the languages the responded has worked with, separated by a semi-colon. The unique value of each language was needed to find our their popularity by country.
+a concatenated string of all the languages the responded has worked with, separated by a semi-colon. The unique value of each language was needed to find our their popularity by country. See below the popularity of languages for a few countries.
 
-As this processing was anticipated to be likley useable in other cases, a dedicated functon was defined to do the processing. 
+![Germany Languages Popularity](germany.png)
 
 
+![Nigeria Languages Popularity](Nigeria.png)
+
+
+![Germany Languages Popularity](usa.png)
+
+ ## Which are the popular languages across the globe?
+
+TO answer this question, I checked which languages appear most frequenty in the top spot: **JavaScript** was the clear winner. See tables below for the languages that appeared the most in taking the top, second and third places in all countries around the world.
+
+![All COuntries Languages Popularity](All_Countries.png)
