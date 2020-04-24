@@ -1,4 +1,4 @@
-# Gaining Data Insights #
+# Insights into Gaining Insights from Data#
 
 This is blog as part of my in Udacity DataScience nanao degree. Data Science is fun and enpowering, this posts shares my project on gaining insights from raw data.. 
 
@@ -57,6 +57,17 @@ a concatenated string of all the languages the responded has worked with, separa
 
  ## Which are the popular languages across the globe?
 
-TO answer this question, I checked which languages appear most frequenty in the top spot: **JavaScript** was the clear winner. See tables below for the languages that appeared the most in taking the top, second and third places in all countries around the world.
+To answer this question, I checked which languages appear most frequenty in the top spot: **JavaScript** was the clear winner. See tables below for the languages that appeared the most in taking the top, second and third places in all countries around the world.
 
 ![All COuntries Languages Popularity](All_Countries.png)
+
+
+
+## Question 2 - Is there a correlation between most popular languages choice and job satisfaction
+
+To answer this question we explored the **JobSatisfaction** column of the dataset, and checkecked is against the most popular (top three in all countries), and the not so poplar (everytoher language). Simple ansers: There is no significant correclation between job satisfaction and language popularity. See charts below:
+
+
+![top 3](top3_job_ratings.png)
+
+![others](notop3_job_ratings.png)
