@@ -83,10 +83,5 @@ In question 3, we attempt to get insights into the question *How does parent's h
 - 4: Master's Degree
 - 5: Doctoral Degree
 
-![Education Bar}(Education.png)  ![Education xy}(Education2.png)  
+![Education Bar](Education.png)  ![Education xy](Education2.png)  
 
-
-
-![top 3](top3_job_ratings.png)
-
-![others](notop3_job_ratings.png)
