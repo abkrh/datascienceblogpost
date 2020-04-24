@@ -1,4 +1,4 @@
-# Insights into Gaining Insights from Data#
+# Insights into Gaining Insights from Data
 
 This is blog as part of my in Udacity DataScience nanao degree. Data Science is fun and enpowering, this posts shares my project on gaining insights from raw data.. 
 
