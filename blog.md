@@ -71,3 +71,22 @@ To answer this question we explored the **JobSatisfaction** column of the datase
 ![top 3](top3_job_ratings.png)
 
 ![others](notop3_job_ratings.png)
+
+
+## Question 3 - Does the Apple Fall Far from the Tree
+
+In question 3, we attempt to get insights into the question *How does parent's highest education relate to highest respondent education?*. TO check in the ways of the ancients - where the trade staysin the family is also true for the technology world - you will be happy to konw it does not. There was no significant correlation between the parents highest eduction level and those of our respondents. There is however a slight bias in the highest educaiton - ie. offspring of parents with masters and doctoral degrees, tend to have a hgher avergae of obtaining masters and doctoral degrees - but this is  only on average, and was not found to be a determinant. The columns used for this anaylys are **HighestEducationParents** and **FormalEducation** columns. In the charts that follow the following convention was used: 
+- 0: No Education
+- 1: Primary/Elementary School
+- 2: Secondary/High School
+- 3:Bachelor's Degree or Professinal Degree
+- 4: Master's Degree
+- 5: Doctoral Degree
+
+![Education Bar}(Education.png)  ![Education xy}(Education2.png)  
+
+
+
+![top 3](top3_job_ratings.png)
+
+![others](notop3_job_ratings.png)
