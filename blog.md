@@ -92,3 +92,6 @@ In question 3, we attempt to get insights into the question *How does parent's h
 Question 4 explores whether or not remote work increases the need for StackoverFlow. This was explored in two axes - how helpful respondents find StackOverflow and if they felt they did not know what to do without StackOverflow - the avegrage score on each of these two dimension was spread across the percentage of time employees worked remotely. The coulmns in the data that was used are: **HomeRemote** on one hand, and on the other hand the two columns **StackOverflowHelpful** and **StackOverflowWhatDo**. The results did not indicate any significant correlation. See charts below.
 
 ![Helpful](Helpful.png)  ![Whattodo](whattodo.png) 
+
+# Conclusion
+The data exploriation was successfull in allowing us to anser all four questions within the limitations of the survey data. We saw the most popular languages - not surprisingly one of the most ubiquitous langaunages around has the top stop - **Javasctrip**, and we answerd all three correlation questions (2 to 4), in thenegative. Althugh there is some variabilty seen, the correlation did not appear significant.d
