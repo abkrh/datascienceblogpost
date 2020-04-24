@@ -79,9 +79,10 @@ In question 3, we attempt to get insights into the question *How does parent's h
 - 0: No Education
 - 1: Primary/Elementary School
 - 2: Secondary/High School
-- 3:Bachelor's Degree or Professinal Degree
-- 4: Master's Degree
-- 5: Doctoral Degree
+- 3: Some college/university study, no bachelor's degree
+- 4: Bachelor's Degree or Professinal Degree
+- 5: Master's Degree
+- 6: Doctoral Degree
 
 ![Education Bar](Education.png)  ![Education xy](Education2.png)  
 
