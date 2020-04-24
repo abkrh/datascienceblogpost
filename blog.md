@@ -36,11 +36,7 @@ Below is a description of the data:
 
 
 
-The data package also includes a schema that provides the survey questions. See a snapshot below.
-
-
-![The Data Schema](Schema1.JPG)
-
+The data package also includes a schema that provides the survey questions (see ![reamme.md](readme.md))
 
 
 ## Question 1 - What are the most popular languages by country
@@ -94,4 +90,4 @@ Question 4 explores whether or not remote work increases the need for StackoverF
 ![Helpful](Helpful.png)  ![Whattodo](whattodo.png) 
 
 # Conclusion
-The data exploriation was successfull in allowing us to anser all four questions within the limitations of the survey data. We saw the most popular languages - not surprisingly one of the most ubiquitous langaunages around has the top stop - **Javasctrip**, and we answerd all three correlation questions (2 to 4), in thenegative. Althugh there is some variabilty seen, the correlation did not appear significant.d
+The data exploriation was successfull in allowing us to anser all four questions within the limitations of the survey data. We saw the most popular languages - not surprisingly one of the most ubiquitous langaunages around has the top stop - **JavaSctript**, and we answerd all three correlation questions (2 to 4), in thenegative. Althugh there is some variabilty seen, the correlation did not appear significant.d
