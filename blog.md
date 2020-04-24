@@ -86,3 +86,9 @@ In question 3, we attempt to get insights into the question *How does parent's h
 
 ![Education Bar](Education.png)  ![Education xy](Education2.png)  
 
+
+## Question 4 - Are Remote Woekrers hlepless without StackOverflow?
+
+Question 4 explores whether or not remote work increases the need for StackoverFlow. This was explored in two axes - how helpful respondents find StackOverflow and if they felt they did not know what to do without StackOverflow - the avegrage score on each of these two dimension was spread across the percentage of time employees worked remotely. The coulmns in the data that was used are: **HomeRemote** on one hand, and on the other hand the two columns **StackOverflowHelpful** and **StackOverflowWhatDo**. The results did not indicate any significant correlation. See charts below.
+
+![Helpful](Helpful.png)  ![Whattodo](whattodo.png) 
