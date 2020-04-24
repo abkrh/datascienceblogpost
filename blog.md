@@ -36,7 +36,7 @@ Below is a description of the data:
 
 
 
-The data package also includes a schema that provides the survey questions (see ![reamme.md](readme.md))
+The data package also includes a schema that provides the survey questions (see (README.md))
 
 
 ## Question 1 - What are the most popular languages by country
